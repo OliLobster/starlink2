@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae9870a-a338-4c34-bbcf-e0cb15316b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <updated>1663422100451</updated>
       <workItem from="1663422102972" duration="1758000" />
       <workItem from="1663500571365" duration="685000" />
-      <workItem from="1663502198407" duration="2175000" />
+      <workItem from="1663502198407" duration="2925000" />
     </task>
     <servers />
   </component>
